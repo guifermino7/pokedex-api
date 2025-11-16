@@ -7,6 +7,7 @@ const Container = styled('div')`
     display: inline-block;
     border-radius: 10px;
     padding: 2px 8px;
+    margin: 5px;
 
     p {
         font-size: 10px;
